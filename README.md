@@ -8,5 +8,5 @@ Modelos basados en los proyectos:
 
 Links del Parcial:
 - Informe -> https://docs.google.com/document/d/1hhopP7mJ-yNgX2_uyg_bYb621efLQPa76N1bQMwkIOc/edit?usp=sharing
-- Repositorio GUGU -> 
-- Repositorio GameSoul -> 
+- Repositorio GUGU -> https://github.com/CinRigoni/Grupo3_GUGU
+- Repositorio GameSoul -> https://github.com/CinRigoni/Grupo3_GameSoul
